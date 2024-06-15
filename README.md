@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://github.com/TheOdinProject/theodinproject)
 
-- 🌱 I’m currently learning **HTML, CSS and JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DavydTseluiko?tab=repositories](https://github.com/DavydTseluiko?tab=repositories)
 
 - 📫 How to reach me **tseluiko.davyd@gmail.com**
